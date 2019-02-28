@@ -1,1 +1,4 @@
-sudo useradd 
+CREATE A NEW USER£º
+sudo adduser bob
+DELETE A USER:
+sudo userdel -r bob
